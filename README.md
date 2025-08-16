@@ -48,3 +48,4 @@ busmate-app/
 ├── .env                       # 환경변수(API 키 등)
 ├── README.md                  # 이 파일
 └── docs/                      # 기획서, API 문서, DB 설계 등
+
